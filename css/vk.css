@@ -1,0 +1,208 @@
+
+h1 {
+  font-family:  Verdana, Helvetica, Arial, sans-serif;
+  text-align: left;
+  font-size: 110%;
+  font-weight: 500;
+  letter-spacing: 0.2pt;
+  border-bottom: 3px solid #f0f0f2; 
+  padding: 0 0 15px 0;
+  color: #094277; 
+  margin-left: 1px;
+  }
+
+#logo{                            
+  font-family:Verdana, Helvetica, Arial, sans-serif;
+  text-align: left;
+  width: 700px;
+  font-size: 79%;
+  letter-spacing: -0.1pt;
+  line-height: 12pt;
+  padding: 3px 0 0 6px; 
+  
+}
+
+
+img {
+width: 35px;
+float:left;
+margin: 7px 8px 0 0;
+padding: 0 0 0 0; 
+}
+
+form {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  text-align: left;
+  font-size: 90%;
+  overflow: hidden;   
+}
+
+
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.account-info label {
+color: #636466;
+font-size: 90%;
+}
+
+h2 {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  text-align: left;
+  font-size: 108%;
+  letter-spacing: -0.4pt;
+  font-weight: bold;
+  border-bottom: 3px solid #f0f0f2; 
+  clear: both;  
+  padding: 8px 0 15px 0; 
+  color: #49678D;
+  margin-bottom: 12px;
+  }
+
+.account-info input {
+border: 1px solid #c6c7cc;
+width: 150px;
+height: 16px;
+padding: 4px 0 0 6px;
+margin-top: 6px;
+}
+
+.name{
+padding: 0 0 0 33px;
+margin-top: -5px; 
+}
+
+.last_name{
+padding: 0 0 0 0; 
+margin-top: -5px;
+}
+
+.E-Mail{
+margin-top: -6px; 
+padding: 0 0 0 19px; 
+}
+
+.password{
+padding: 0 0 0 10px; 
+margin-top: -5px;
+}
+
+cite{
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: 73%;
+  font-style: normal;
+  letter-spacing:-0.6pt;
+  color: #c6c7cc;
+  font-weight: 500;
+}
+
+h3 {
+  font-family: 'Noto Sans', sans-serif;
+  text-align: left;
+  font-size: 108%;
+  letter-spacing: 0.3pt;
+  font-weight: 800;
+  border-bottom: 2px solid #f0f0f2; 
+  padding: 34px 0 13px 1px; 
+  color: #49678D;
+  }
+
+.account-info select {
+  font-family: 'Noto Sans', sans-serif;
+  background: #fff;
+  border: 1px solid #c6c7cc;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+  color: black;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 164px;
+  font-size: 0.9em;
+  letter-spacing: 0.1px;  
+  margin-bottom: -90px;
+}
+
+.country{
+padding: 1px 0 0 18px; 
+}
+
+.city{
+padding: 3px 0 12px 28px; 
+}
+
+span{
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  padding: 0 0 0 49px; 
+  font-size: 11px;
+  font-weight: 600;
+  color: #636466;
+  letter-spacing: -0.6pt; 
+}
+
+h4 {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  text-align: left;
+  font-size: 90%;
+  font-weight: bold;
+  border-bottom: 2px solid #f0f0f2; 
+  padding: 0 0 12px 2px;
+  margin: 28px 0 0 0;
+  color: #49678D;
+  }
+
+.school{
+padding: 0 0 0px 20px; 
+}
+
+ 
+.univ_h4 {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  text-align: left;
+  font-size: 90%;
+  font-weight: bold;
+  border-bottom: 2px solid #f0f0f2; 
+  padding: 0 0 12px 1px;
+  margin: 6px 0 0 0;
+  color: #49678D;
+  }
+
+.univer{
+padding: 0 0 0 43px; 
+}
+
+
+.btn{
+  padding-left: 0px;
+}
+
+.account-action .btn {
+  background:   #f0f0f2;
+  border: 1px solid #c6c7cc;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+  cursor: pointer;
+  margin-top: 16px;
+  margin-left: 32px;
+  width: 210px;
+  font-size: 90%;
+  letter-spacing: 0.24pt;
+}
+
+.foot{
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: 66%;
+  letter-spacing: -0.5pt;
+  margin-top: 0;
+  margin-left: 32px;
+  color: #A0A0A4;
+  
+}
+
+.foot a{                   
+  text-decoration: none;  
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: 100%;
+  color: #49678D;
+  letter-spacing: -0.6pt;
+  }
